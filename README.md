@@ -25,7 +25,7 @@ calculateBMI();
 
 ```
 
-![1712848797298](https://file+.vscode-resource.vscode-cdn.net/Users/edhyde/Documents/code/mad9112/hyde0038_Final_Project/image/README/1712848797298.png)
+![1712851232125](image/README/1712851232125.png)
 
 ![1712848847234](image/README/1712848847234.png)
 

@@ -1,0 +1,4 @@
+cd ~/Documents/code/mad9112/
+mkdir hyde0038_Final_Project
+touch T1Q1.txt
+nano T1Q1.txt
